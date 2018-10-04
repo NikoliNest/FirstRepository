@@ -1,0 +1,5 @@
+<root>
+    <item name='javafx.scene.control.TextField'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

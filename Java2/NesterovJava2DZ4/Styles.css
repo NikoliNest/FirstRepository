@@ -1,0 +1,19 @@
+#btn1 {
+    -fx-font: 14px "Serif";
+    -fx-padding: 2px;
+    -fx-background-color: red;
+    -fx-text-fill: blueviolet;
+    -fx-effect: dropshadow(three-pass-box, gray, 10px, 0, 0, 0);
+}
+
+#textField {
+-fx-font: 16px "SanSerif";
+-fx-background-color: black;
+-fx-text-fill: white;
+}
+
+#textArea {
+-fx-font: 14px "Serif";
+-fx-background-color: yellow;
+-fx-text-fill: black;
+}
